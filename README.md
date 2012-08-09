@@ -2,6 +2,9 @@ jQuery fontSizer
 ---
 
  *Un plugin para A+ a-*
+ 
+ 
+[http://www.csslab.cl/2008/08/07/jquery-plugin-fontsizer/](http://www.csslab.cl/2008/08/07/jquery-plugin-fontsizer/)
 
 Adjuntar jquery.js y jquery.fontSizer.js entre las etiquetas `<head></head>`
 
@@ -20,7 +23,7 @@ Inicializar el plugin, como en el ejemplo:
 	
 Eso es. El único parámetro obligatorio es indicar la acción de cada link mediante action. 
 
-Los parámetros son:
+ **Los parámetros son:**
 
 	action: "up/down" (requerido).
 	elements: "elemento" (un id, class o etiqueta donde actuará el cambio de tamaño de fuente).
@@ -28,7 +31,5 @@ Los parámetros son:
 	max: número (tamaño máximo del tamaño de fuente; por defecto es 30px).
 	min: número (tamaño mínimo del tamaño de fuente; por defecto es 8px).
 	
-Por ahora solo ha sido probado con jQuery 1.2.6
-
-[http://www.csslab.cl/2008/08/07/jquery-plugin-fontsizer/](http://www.csslab.cl/2008/08/07/jquery-plugin-fontsizer/)
+ *Por ahora solo ha sido probado con jQuery 1.2.6*
 
